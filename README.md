@@ -1,1 +1,1 @@
-An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am a self-motivated individual with a flair for innovative thinking and strong ability to collaborate in team settings. Looking to use my skills in web development.
+An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am a self-motivated individual with a flair for innovative thinking and a strong ability to collaborate in team settings. Looking to use my skills in web development.
