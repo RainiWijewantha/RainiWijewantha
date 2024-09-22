@@ -33,7 +33,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 <p align="left">
 <a href="https://twitter.com/rainiwijewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="rainiwijewantha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raini-wijewantha-a45aa7221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raini-wijewantha-a45aa7221" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raini-wijewantha-a45aa7221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raini-wijewantha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22542420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22542420" height="30" width="40" /></a>
 <a href="https://kaggle.com/rainiwijewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rainiwijewantha" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rainiwijosjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rainiwijosjg" height="30" width="40" /></a>
