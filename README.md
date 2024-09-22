@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raini Wijewantha
 ========================================================================================================================================
 
-QA Engineer || Backend Developer
+QA Engineer || Software Developer
 --------------------------------
 
 An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am a self-motivated individual with a flair for innovative thinking and a strong ability to collaborate in team settings. Looking to use my skills in web development. I have experience as a QA Engineer.
