@@ -15,7 +15,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainiwijewantha" alt="rainiwijewantha" /></a>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainiwijewantha" alt="rainiwijewantha" /></a></p>
 
 ### Skills
 
