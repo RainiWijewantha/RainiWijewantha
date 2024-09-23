@@ -14,16 +14,6 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 <br><br>
 
-<div background-color=ffffff>
-  <div align="left" background=640D5F>
-    <p>bvdysfcecvyhsvhyfcvydghsc</p>
-  </div>
-  <div align="right" background=86D293>
-    <p>chydgerfyugerfgwieuahfdqeofhydewiu</p>
-  </div>
-</div>
-
-
 <div align="center">
 
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
