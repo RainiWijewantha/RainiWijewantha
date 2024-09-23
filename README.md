@@ -8,7 +8,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sashee.wijewantha@gmail.com](mailto:sashee.wijewantha@gmail.com)
-
+<br><br>
 <div align="center">
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-stats.vercel.app/api?username=rainiwijewantha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="rainiwijewantha's GitHub stats" /></a>
 </div>
