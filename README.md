@@ -14,7 +14,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 <br><br>
 
-<div background=ffffff>
+<div background-color=ffffff>
   <div align="left" background=640D5F>
     <p>bvdysfcecvyhsvhyfcvydghsc</p>
   </div>
