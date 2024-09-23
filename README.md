@@ -16,10 +16,10 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 <div background=ffffff>
   <div align="left" background=640D5F>
-    
+    <p>bvdysfcecvyhsvhyfcvydghsc</p>
   </div>
   <div align="right" background=86D293>
-    
+    <p>chydgerfyugerfgwieuahfdqeofhydewiu</p>
   </div>
 </div>
 
