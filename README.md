@@ -16,7 +16,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 <div align="left">
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainiwijewantha&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="rainiwijewantha" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainiwijewantha&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="rainiwijewantha" /></p>
 </div>
 
 
