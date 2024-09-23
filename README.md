@@ -14,7 +14,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 
 <div align="left">
-<div align="left">
+<div>
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 <div align="right"
