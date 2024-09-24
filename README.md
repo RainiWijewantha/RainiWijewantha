@@ -38,9 +38,25 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cardsmost-commit-language?username=rainiwijewantha"`/>
+  <img alt="profile-details" src="top_lang_by_commit.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=algolia" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/productive-time?username=rainiwijewantha"`/>
+  <img alt="profile-details" src="commit.svg" />
+  </picture>
+</p>
+
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=algolia)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=algolia&align=center)-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia&align=center)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia&align=center)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=algolia&utcOffset=8&align=center)  
 
 ## GitHub Dashboard Dynamic Stat With Graph
