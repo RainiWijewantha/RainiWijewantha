@@ -1,11 +1,11 @@
-<!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raini Wijewantha-->
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Raini Wijewantha</h1>
-========================================================================================================================================
 
-QA Engineer || Software Developer
---------------------------------
+<h1 align="center">Hi 👋, I'm Raini Wijewantha</h1>
+===================================================
 
-An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am a self-motivated individual with a flair for innovative thinking and a strong ability to collaborate in team settings. Looking to use my skills in web development. I have experience as a QA Engineer.
+<h3 align="center">QA Engineer || Software Developer</h3>
+---------------------------------------------------------
+
+An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am self-motivated with a flair for innovative thinking and a strong ability to collaborate in team settings. I am looking to use my skills in web development. I have experience as a QA Engineer.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sashee.wijewantha@gmail.com](mailto:sashee.wijewantha@gmail.com)
