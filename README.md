@@ -15,13 +15,13 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 <img src="https://github-readme-stats.vercel.app/api?username=rainiwijewantha&theme=algolia" alt="rainiwijewantha's GitHub stats" /></a>
 </div>
 
-## 
+## GitHub Profile Summary Cards
 
 <div align="center">
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&theme=algolia" /></a>
 </div>
 
-## GitHub Profile Summary Cards
+<br>
 
 <p align="center">
   <picture>
