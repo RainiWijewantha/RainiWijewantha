@@ -17,7 +17,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 ## 
 
 <div align="center">
-<a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainiwijewantha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
 </div>
 
 ## GitHub Profile Summary Cards
@@ -55,6 +55,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </p>
 
 ## GitHub Dashboard Dynamic Stat With Graph
+
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112390022" target="_blank" style="display: block" align="center">
   <picture>
@@ -65,6 +66,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 
 ## GitHub Contribution Time Duration Stat
+
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=112390022&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
