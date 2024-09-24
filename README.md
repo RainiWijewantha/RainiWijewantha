@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Raini Wijewantha</h1>
 
 <h3 align="center">QA Engineer || Software Developer</h3>
-
+<br>
 An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am self-motivated with a flair for innovative thinking and a strong ability to collaborate in team settings. I am looking to use my skills in web development. I have experience as a QA Engineer.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sashee.wijewantha@gmail.com](mailto:sashee.wijewantha@gmail.com)
-<br><br>
+<br>
 
 <div align="center">
 <a href="http://www.github.com/rainiwijewantha"><img src="https://github-readme-stats.vercel.app/api?username=rainiwijewantha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="rainiwijewantha's GitHub stats" /></a>
 </div>
-<br><br>
+<br>
 
 --------------------------------
 
