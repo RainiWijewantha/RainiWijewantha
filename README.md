@@ -28,7 +28,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainiwijewantha&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=2077&utcOffset=8)  
----
+
 
 ## GitHub Dashboard Dynamic Stat With Graph
 
@@ -38,7 +38,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
     <img alt="Dashboard stats of @Gtarafdar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112390022&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
----
+
 
 ## GitHub Contribution Time Duration Stat
 
@@ -48,11 +48,10 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
     <img alt="Contribution Time Distribution of @Gtarafdar" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=112390022&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
----
+
 
 ## Your GitHub's Last 28 Days Stats
 
-<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=112390022&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
@@ -60,7 +59,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
     <img alt="@Gtarafdar's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=112390022&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
----
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
