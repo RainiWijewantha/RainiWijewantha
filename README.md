@@ -91,10 +91,6 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 ## 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
-
-<img src="https://img.shields.io/github/followers/rainiwijewantha?logo=github&style=for-the badge&color=0891b2&labelColor=1c1917" /> -->
-
 <div width="100%" display="flex" align="center">
   <a href="https://github.com/rainiwijewantha" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=rainiwijewantha" alt="page views" />
@@ -112,6 +108,13 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
     <img alt="Waka Time" src="https://wakatime.com/badge/user/f5f0652e-a91e-4817-8d58-214dff12419c.svg?style=flat">
   </a>
 </div>
+
+## 
+
+![repo size](https://img.shields.io/github/repo-size/rainiwijewantha/rainiwijewantha?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/rainiwijewantha/rainiwijewantha?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/rainiwijewantha/rainiwijewantha?&labelColor=black&color=7433ff&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/rainiwijewantha/rainiwijewantha?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 ## Top Repositories
 
