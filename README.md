@@ -54,11 +54,6 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </picture>
 </p>
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=algolia)-->
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=algolia&align=center)-->
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia&align=center)-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=algolia&utcOffset=8&align=center)  
-
 ## GitHub Dashboard Dynamic Stat With Graph
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112390022" target="_blank" style="display: block" align="center">
