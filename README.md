@@ -30,21 +30,21 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </picture>
 </p>
 
+<div>
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=algolia" />
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha" />
   <img alt="profile-details" src="top_lang_by_repo.svg" />
   </picture>
-</p>
 
-<p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia" />
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cardsmost-commit-language?username=rainiwijewantha"`/>
   <img alt="profile-details" src="top_lang_by_commit.svg" />
   </picture>
-</p>
+  </p>
+</div>
 
 <p align="center">
   <picture>
