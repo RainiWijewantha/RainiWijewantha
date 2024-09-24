@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Raini Wijewantha</h1>
 
 <h3 align="center">QA Engineer || Software Developer</h3>
@@ -14,7 +13,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 <br>
 
-###
+------------------------------
 
 <div align="center">
 
