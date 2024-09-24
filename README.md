@@ -91,9 +91,27 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 ## 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
 
-<img src="https://img.shields.io/github/followers/rainiwijewantha?logo=github&style=for-the badge&color=0891b2&labelColor=1c1917" /> 
+<img src="https://img.shields.io/github/followers/rainiwijewantha?logo=github&style=for-the badge&color=0891b2&labelColor=1c1917" /> -->
+
+<div width="100%" display="flex" align="center">
+  <a href="https://github.com/rainiwijewantha" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rainiwijewantha" alt="page views" />
+  </a>
+  <a href="https://github.com/rainiwijewantha" target="_blank">
+    <img src="https://img.shields.io/github/stars/rainiwijewantha?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
+  </a>
+  <a href="https://github.com/rainiwijewantha?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rainiwijewantha?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
+  </a>
+  <a href="https://github.com/rainiwijewantha" target="_blank">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/rainiwijewantha/rainiwijewantha/main">
+  </a>
+  <a href="https://wakatime.com/@rainiwijewantha" target="_blank">
+    <img alt="Waka Time" src="https://wakatime.com/badge/user/f5f0652e-a91e-4817-8d58-214dff12419c.svg?style=flat">
+  </a>
+</div>
 
 ## Top Repositories
 
