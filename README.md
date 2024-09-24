@@ -37,15 +37,17 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 
 ## GitHub Contribution Time Duration Stat
-
+<div align="center">
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=112390022&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=112390022&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
     <img alt="Contribution Time Distribution of @Gtarafdar" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=112390022&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
+</div>
 
 ## 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
 
 <img src="https://img.shields.io/github/followers/rainiwijewantha?logo=github&style=for-the badge&color=0891b2&labelColor=1c1917" /> 
