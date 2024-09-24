@@ -24,10 +24,10 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 
 ## GitHub Profile Summary Cards
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=2077&utcOffset=8)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=algolia&utcOffset=8)  
 
 
 ## GitHub Dashboard Dynamic Stat With Graph
