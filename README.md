@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raini Wijewantha</h1>
 
 <h3 align="center">QA Engineer || Software Developer</h3>
+## 
 <br>
 An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am self-motivated with a flair for innovative thinking and a strong ability to collaborate in team settings. I am looking to use my skills in web development. I have experience as a QA Engineer.
 
