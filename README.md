@@ -22,6 +22,13 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainiwijewantha&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="rainiwijewantha" /></p>
 </div>
 
+## GitHub Profile Summary Cards
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainiwijewantha&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=algolia&utcOffset=8)  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainiwijewantha&label=Profile%20views&color=0891b2&style=flat" alt="rainiwijewantha" /> </p> 
 
