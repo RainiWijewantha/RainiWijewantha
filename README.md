@@ -26,7 +26,6 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainiwijewantha&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainiwijewantha&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainiwijewantha&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainiwijewantha&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainiwijewantha&theme=2077&utcOffset=8)  
 
 
