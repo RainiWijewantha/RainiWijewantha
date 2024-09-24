@@ -13,7 +13,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 </div>
 <br>
 
-###Activities
+## Activities
 
 <div align="center">
 
