@@ -7,7 +7,6 @@
 An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineering from Cardiff Metropolitan University. I am self-motivated with a flair for innovative thinking and a strong ability to collaborate in team settings. I am looking to use my skills in web development. I have experience as a QA Engineer.
 
 * 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [sashee.wijewantha@gmail.com](mailto:sashee.wijewantha@gmail.com)
 <br>
 
 <div align="center">
@@ -154,17 +153,35 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </a>  
 </p>
 
-
-
 ## Connect With me
 
-<p align="left">
-<a href="https://github.com/rainiwijewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="rainiwijewantha" height="30" width="40" /></a>
-<a href="https://twitter.com/rainiwijewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="rainiwijewantha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raini-wijewantha-a45aa7221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raini-wijewantha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22542420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22542420" height="30" width="40" /></a>
-<a href="https://kaggle.com/rainiwijewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rainiwijewantha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rainiwijosjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rainiwijosjg" height="30" width="40" /></a>
+<p align="center">
+<a href="mailto:sashee.wijewantha@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="rainiwijewantha" height="48" width="48" />
+</a>
+<a href="https://twitter.com/rainiwijewantha" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="rainiwijewantha" height="48" width="48" />
+</a>
+<a href="https://linkedin.com/in/raini-wijewantha-a45aa7221" target="blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" height="48" width="48" />
+</a>
+</p>
+
+## Find me on Communities
+
+<p align="center">
+<a href="https://codepen.io/rainiwijewantha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rainiwijewantha" height="48" width="48" />
+</a>
+<a href="https://stackoverflow.com/users/22542420" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22542420" height="48" width="48" />
+</a>
+<a href="https://kaggle.com/rainiwijewantha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rainiwijewantha" height="48" width="48" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/rainiwijosjg" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rainiwijosjg" height="54" width="54" />
+</a>
 </p>
 
 ## 
