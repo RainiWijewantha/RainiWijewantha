@@ -66,9 +66,9 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
 
 ## Languages, Frameworks, Libraries and Tools I frequently used
 
-<h3>Languages</h3>
+<h3 align="center">Languages</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> 
   </a> 
@@ -95,9 +95,11 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </a>
 </p>
 
-<h3>Frameworks, Libraries</h3>
+<br>
+
+<h3 align="center">Frameworks, Libraries</h3>
   
-<p align="left"> 
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> 
   </a> 
@@ -115,15 +117,19 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </a>
 </p>
 
+<br>
+
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainiwijewantha&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="rainiwijewantha"/>
   </p>
 </div>
 
-<h3>Databases</h3>
+<br>
 
-<p align="left"> 
+<h3 align="center">Databases</h3>
+
+<p align="center"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
   </a> 
@@ -138,9 +144,11 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </a> 
 </p>
 
-<h3>Tools</h3>
+<br>
 
-<p align="left"> 
+<h3 align="center">Tools</h3>
+
+<p align="center"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/>
   </a> 
