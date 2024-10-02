@@ -53,7 +53,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
   </picture>
 </p>
 
-## GitHub Dashboard Dynamic Stat With Graph
+<!--## GitHub Dashboard Dynamic Stat With Graph
 
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112390022" target="_blank" style="display: block" align="center">
@@ -62,7 +62,7 @@ An undergraduate student pursuing a BSc (Hons) in Computer and Software Engineer
     <img alt="Dashboard stats of @RainiWijewantha" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112390022&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-</div>
+</div>-->
 
 ## Languages, Frameworks, Libraries and Tools I frequently used
 
