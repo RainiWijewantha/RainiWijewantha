@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raini Wijewantha</h1>
 
-<h3 align="center">QA Engineer || Software Developer</h3>
+<h3 align="center">QA Engineer</h3>
 
 ## 
 
